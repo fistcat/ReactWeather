@@ -24,7 +24,7 @@ var Weather = React.createClass({
       that.setState({
         isLoading:false
       });
-      alert(errorMessage);
+      alert("Hey yo come on. Don't enter useless message.");
     });
   },
 
